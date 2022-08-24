@@ -1,0 +1,61 @@
+.app-container{
+    
+}
+
+.hello{
+    display: inline-block;
+    margin-left: 20rem;
+}
+
+.hello label {
+    font-size: 20px;
+    color: #023e8a;
+}
+
+.hello input {
+    width: 10%;
+    height: 2vh;
+    padding: 4px 8px;
+    margin: 0.3rem;
+}
+
+.input-form {
+    display: inline;
+    margin-left: 3.4rem;
+}
+
+button {
+    width: 8%;
+    height: 2rem;
+    background: #00b4d8;
+    color: #fff;
+    border-color: #00b4d8;
+    border-radius: 5px 5px;
+}
+
+table {
+    border: 1px solid black;
+    width: 80%;
+    font-size: 19px;
+    text-align: center;
+    margin-top: 2rem;
+    margin-left: 12rem;
+    padding: 5px;
+    border-spacing: 15px;
+}
+
+#total {
+    font-size: 20px;
+    color: #023e8a;
+}
+
+span {
+    font-size: 18px;
+}
+
+#prob{
+    margin-bottom: -100px;
+    padding-top: 1.2rem;
+}
+
+

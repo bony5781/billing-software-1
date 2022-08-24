@@ -1,0 +1,19 @@
+td {
+    font-size: 19px;
+    margin-top: -12rem;
+}
+
+button{
+    width: 3rem;
+}
+
+#delete{
+    background-color: red;
+    color: white;
+    width: 3.5rem;
+}
+
+
+
+
+
