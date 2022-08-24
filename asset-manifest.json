@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/billing-software-1/static/css/main.fe043816.css",
+    "main.js": "/billing-software-1/static/js/main.a796d6a3.js",
+    "static/js/787.ba43c621.chunk.js": "/billing-software-1/static/js/787.ba43c621.chunk.js",
+    "index.html": "/billing-software-1/index.html",
+    "static/media/EditableRow": "/billing-software-1/static/media/EditableRow.31d6cfe0d16ae931b73c",
+    "main.fe043816.css.map": "/billing-software-1/static/css/main.fe043816.css.map",
+    "main.a796d6a3.js.map": "/billing-software-1/static/js/main.a796d6a3.js.map",
+    "787.ba43c621.chunk.js.map": "/billing-software-1/static/js/787.ba43c621.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe043816.css",
+    "static/js/main.a796d6a3.js"
+  ]
+}
